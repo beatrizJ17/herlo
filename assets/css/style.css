@@ -1,0 +1,11 @@
+#título {
+       border-radius: 10px 50px 50px 10px;
+       width:350px;
+       height: 60px;
+       color: white;
+       background: #001989;
+}
+
+img {
+	width: 500px;
+}
